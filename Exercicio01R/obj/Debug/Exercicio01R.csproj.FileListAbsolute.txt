@@ -1,0 +1,7 @@
+C:\Users\Henrique\source\repos\Exercicio01R\Exercicio01R\bin\Debug\Exercicio01R.exe.config
+C:\Users\Henrique\source\repos\Exercicio01R\Exercicio01R\bin\Debug\Exercicio01R.exe
+C:\Users\Henrique\source\repos\Exercicio01R\Exercicio01R\bin\Debug\Exercicio01R.pdb
+C:\Users\Henrique\source\repos\Exercicio01R\Exercicio01R\obj\Debug\Exercicio01R.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\Exercicio01R\Exercicio01R\obj\Debug\Exercicio01R.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\Exercicio01R\Exercicio01R\obj\Debug\Exercicio01R.exe
+C:\Users\Henrique\source\repos\Exercicio01R\Exercicio01R\obj\Debug\Exercicio01R.pdb
